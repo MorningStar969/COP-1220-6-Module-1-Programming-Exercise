@@ -17,6 +17,5 @@ class Program
     double centimeters = inches * 2.54;
     // Display the result
     Console.WriteLine("The lenght in centimeters is: " + centimeters);
-  }
-  
+  } 
 }
